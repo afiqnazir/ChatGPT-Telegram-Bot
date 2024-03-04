@@ -1,6 +1,6 @@
 BOT:
-  TOKEN: 55***88  # Get your bot token from @BotFater
-AI:
+  TOKEN: 5987406524:AAGpgwHb7Dg_kTCkKqXV22_v1oesYd_KI-Y # Get your bot token from @BotFater
+AI: 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
   VERSION: "2023-03-15-preview"
   TYPE: "azure"
   ENGINE: "your azure openai deployment name"
